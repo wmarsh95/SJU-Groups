@@ -2,8 +2,8 @@
 /*
 Plugin name: SJU Groups
 Plugin URI: https://governance.sju.edu/
-Description: A plugin to assign users to groups via ACF metadata.
-Author: Will Marsh; forked from eggemplo (https://github.com/eggemplo/Users-auto-Group)
+Description: A plugin to assign users to groups via ACF metadata, forked from eggemplo (https://github.com/eggemplo/Users-auto-Group)
+Author: Will Marsh
 Author URI: http://www.sju.edu
 Version: 1.0
 */
