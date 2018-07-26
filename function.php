@@ -23,7 +23,7 @@ function uag_user_register ( $user_id ) {
 /**
  * List members of the group.
  */
-add_shortcode('groups_users_list_group', 'groups_users_list_group');
+add_shortcode('groups_users_list_group', 'groups_users_list_group_shortcode');
 function groups_users_list_group( $atts, $content = null ) {
 	$output = "";
 	$options = shortcode_atts(
