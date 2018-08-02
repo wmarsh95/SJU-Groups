@@ -18,4 +18,4 @@ function uag_user_register ( $user_id ) {
        print_r($_POST);
        echo '</pre>';
        exit();
-}        
+}
